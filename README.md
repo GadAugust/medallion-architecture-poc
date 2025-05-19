@@ -76,7 +76,7 @@ The AdventureWorks dataset is a fictitious dataset by Microsoft that simulates a
 📸 **Screenshots Placeholder:**  
 *Add screenshots of your logical model and ERD here*
 
-#### 🔑 Relationship Summary
+####  Relationship Summary
 
 | Table           | Type       | Key Used               | Relationship     |
 |----------------|------------|------------------------|------------------|
@@ -88,7 +88,7 @@ The AdventureWorks dataset is a fictitious dataset by Microsoft that simulates a
 | SalesTerritory  | Dimension  | SalesTerritoryKey      | 1:N with Sales   |
 | Date            | Dimension  | DateKey                | 1:N with Sales   |
 
-> ✅ **Tip**: Look for primary and foreign keys; identify 1:1 or 1:N relationships.
+>  **Tip**: Look for primary and foreign keys; identify 1:1 or 1:N relationships.
 
 📸 **Screenshots Placeholder:**  
 *Add ERD visual here (from Draw.io, Lucidchart, etc.)*
@@ -108,12 +108,12 @@ The AdventureWorks dataset is a fictitious dataset by Microsoft that simulates a
 - Data formatting  
 - Aggregations and metrics (e.g. revenue, quantity sold)
 
-📸 **Screenshots Placeholder:**  
+ **Screenshots Placeholder:**  
 *Add Power BI report, final dataset schema, or Fabric view here*
 
 ---
 
-## 🔒 Data Governance & Security
+##  Data Governance & Security
 
 Security and data governance are critical throughout all layers:
 
@@ -127,7 +127,7 @@ Security and data governance are critical throughout all layers:
 - Can this scale in 5 years?  
 - Are tools accessible by your team?
 
-📸 **Screenshots Placeholder:**  
+ **Screenshots Placeholder:**  
 *Add screenshot of Purview dashboard, security settings, or Fabric workspace permissions here*
 
 ---
@@ -142,16 +142,16 @@ Security and data governance are critical throughout all layers:
 
 ---
 
-## ✅ Success Criteria
+##  Success Criteria
 
 To complete this project successfully, ensure the following:
 
-- ✅ Ingestion of raw data into the Bronze layer  
-- ✅ Development of a clear and accurate **Logical Model**  
-- ✅ Creation of a well-structured **Entity Relationship Diagram**  
-- ✅ Transformation and preparation of data in the Gold layer  
-- ✅ Implementation of data security and governance principles  
-- ✅ Demonstrated understanding of fact/dimension modeling
+-  Ingestion of raw data into the Bronze layer  
+-  Development of a clear and accurate **Logical Model**  
+-  Creation of a well-structured **Entity Relationship Diagram**  
+-  Transformation and preparation of data in the Gold layer  
+-  Implementation of data security and governance principles  
+-  Demonstrated understanding of fact/dimension modeling
 
 ---
 
