@@ -1,13 +1,13 @@
 # medallion-architecture-poc
- **A data architecture project using the AdventureWorks dataset to implement Medallion Architecture, from raw data ingestion to business-ready insights with a focus on modelling, transformation, and governance.**
+ A data architecture project using the AdventureWorks dataset to implement Medallion Architecture, from raw data ingestion to business-ready insights with a focus on modelling, transformation, and governance.**
 
 
 
 ---
 
-## 🧱 Project Overview
+##  Project Overview
 
-### 📌 Objective
+###  Objective
 
 To ingest, model, and transform the AdventureWorks dataset using a layered data architecture, demonstrating:
 
@@ -18,23 +18,23 @@ To ingest, model, and transform the AdventureWorks dataset using a layered data 
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 
 ---
 
-## 📦 Dataset: AdventureWorks
+##  Dataset: AdventureWorks
 
 The AdventureWorks dataset is a fictitious dataset by Microsoft that simulates a global manufacturing company selling bicycles and accessories. This project uses:
 
 - 8 Excel worksheets split across two files  
 - Includes tables like: Sales, Customers, Resellers, Products, Dates, Sales Territory, etc.
 
-> 📁 **Note**: Data source and Excel files are located in the `data/` directory.
+>  **Note**: Data source and Excel files are located in the `data/` directory.
 
 ---
 
-## 🧭 Project Roadmap
+##  Project Roadmap
 
 ### 1. Bronze Layer – Raw Data Ingestion
 
